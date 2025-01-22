@@ -48,3 +48,5 @@ func main() {
 
 	log.Fatal(r.Run(":8080"))
 }
+
+//go run main.go and visit 0.0.0.0:8080/register on browser
